@@ -1,1 +1,1 @@
-This will be the instructions for the lab.
+## JS Object Orientation and Rendering Lab
